@@ -1,4 +1,4 @@
-package Fundamentos;
+package MeusProgramas;
 
 import java.util.Scanner;
 
